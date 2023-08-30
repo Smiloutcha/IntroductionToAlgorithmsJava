@@ -7,8 +7,8 @@ public class Excercice3 {
 
     public static void main(String[] args) {
         int[] arr =new int[]{31,41,59,26,41,58};
-        applyInsertionSortNonIncreasingOrder(arr);
         System.out.println("Array before Sorting " + Arrays.toString(arr));
+        applyInsertionSortNonIncreasingOrder(arr);
         System.out.println("Array After Execution Insertion Sort in non Increasing order : " + Arrays.toString(arr));
         System.out.println("Expected Result After execution Insertion Sort in non Increasing Order : "+ "[59, 58, 41, 41, 31, 26]" );
 
