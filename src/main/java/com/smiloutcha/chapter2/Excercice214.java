@@ -1,6 +1,6 @@
 package com.smiloutcha.chapter2;
 
-public class Excercice4 {
+public class Excercice214 {
 
     public static void main(String[] args) {
         int[] arr = new int[]{5,9,1,5,6,3,12,15,5,8,88};
