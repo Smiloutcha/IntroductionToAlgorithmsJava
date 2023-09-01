@@ -1,6 +1,6 @@
 package com.smiloutcha.chapter2;
 
-public class Excercice5 {
+public class Excercice215 {
 
     public static void main(String[] args) {
 

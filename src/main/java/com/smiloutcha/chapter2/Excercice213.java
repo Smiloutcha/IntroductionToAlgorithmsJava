@@ -2,7 +2,7 @@ package com.smiloutcha.chapter2;
 
 import java.util.Arrays;
 
-public class Excercice3 {
+public class Excercice213 {
 
 
     public static void main(String[] args) {

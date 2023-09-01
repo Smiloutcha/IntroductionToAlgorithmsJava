@@ -2,7 +2,7 @@ package com.smiloutcha.chapter2;
 
 import static java.lang.System.out;
 
-public class Excercice2 {
+public class Excercice212 {
 
     public static void main(String[] args) {
         int[] arr = new int[] {10,1,8,1,9,1};
