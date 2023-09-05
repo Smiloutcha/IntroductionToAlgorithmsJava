@@ -1,4 +1,4 @@
-package com.smiloutcha.chapter2;
+package com.smiloutcha.part1;
 
 public class Excercice214 {
 
